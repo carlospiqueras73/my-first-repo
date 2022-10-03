@@ -1,4 +1,4 @@
-def sum(num1, num2):
+def potato(num1, num2):
     return num1 + num2 
 
 
