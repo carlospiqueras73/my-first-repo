@@ -1,4 +1,3 @@
-def potato(num1, num2):
+def broccoli(num1, num2):
     return num1 + num2 
-
 
