@@ -1,2 +1,2 @@
-def broccoli(num1, num2):
+def carrot(num1, num2):
     return num1 + num2 
